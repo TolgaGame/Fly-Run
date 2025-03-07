@@ -7,5 +7,3 @@ Only script content (due to copyright and 3rd party usage assets)</p>
 <b>Using C# language..</b>
 
 <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/>
-
-<img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="c" width="40" height="40"/>
